@@ -1,5 +1,7 @@
 # blocking-spotify-ads-with-spotx
 
+**English** | [简体中文](README.zh-CN.md)
+
 A [skill](https://agentskills.io/specification) for AI coding agents (Claude Code and harnesses that read the `SKILL.md` format) that blocks ads in the **Spotify desktop client on Windows** using [SpotX](https://github.com/SpotX-Official/SpotX).
 
 The valuable part isn't the install command — it's the failure mode this skill encodes.
